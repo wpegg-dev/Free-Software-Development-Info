@@ -9,43 +9,43 @@ You can help by sending Pull Requests to add more services. Once I have a good s
 
 If you're not inclined to make PRs you can tweet me at @ripienaar
  
-Table of Contents
-Source Code Repos
-Tools for teams & Collaboration
-Code Quality
-Code Search and Browsing
-CI / CD
-Security and PKI
-Management Systems
-Log Management
-Translation Management
-Analytics
-Monitoring
-Crash / Exception handling
-Search
-Email
-CDN and Protection
-PaaS
-BaaS
-Web Hosting
-IaaS
-DBaaS
-STUN, WebRTC, Web Socket Servers and other Routers
-Issue tracking / Project management
-Storage and Media Processing
-Data Visualization on Maps
-Package Build Systems
-IDE and Code Editing
-Analytics, Events and Statistics
-International Mobile number verification API and SDK
-Payment / Billing Integration
-Other Packs
-Docker Related
-Alternate container hosting
-Vagrant Related
-Vagrant box indexes
-Data mining
-Source Code Repos
+Table of Contents  
+Source Code Repos  
+Tools for teams & Collaboration  
+Code Quality  
+Code Search and Browsing  
+CI / CD  
+Security and PKI  
+Management Systems  
+Log Management  
+Translation Management  
+Analytics  
+Monitoring  
+Crash / Exception handling  
+Search  
+Email  
+CDN and Protection  
+PaaS  
+BaaS  
+Web Hosting  
+IaaS  
+DBaaS  
+STUN, WebRTC, Web Socket Servers and other Routers  
+Issue tracking / Project management  
+Storage and Media Processing  
+Data Visualization on Maps  
+Package Build Systems  
+IDE and Code Editing  
+Analytics, Events and Statistics  
+International Mobile number verification API and SDK  
+Payment / Billing Integration  
+Other Packs  
+Docker Related  
+Alternate container hosting  
+Vagrant Related  
+Vagrant box indexes  
+Data mining  
+Source Code Repos  
 
 https://bitbucket.org/ - Unlimited public and private git repos for small teams
 http://chiselapp.com/ - Unlimited public and private Fossil repositories
